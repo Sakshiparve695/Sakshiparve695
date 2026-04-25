@@ -1,55 +1,71 @@
-# Hi, I'm Sakshi 👋
+# 👋 Hi, I'm Sakshi Parve
 
-💻 Aspiring Backend Developer | Python | SQL | API Design | Data Analytics  
-
----
-
-## 🚀 About Me
-I am a passionate aspiring software developer with a strong interest in backend development and real-world problem solving.  
-I enjoy building scalable systems, designing APIs, and working with databases.
+🚀 Aspiring **Data Engineer | Backend Developer**
+💡 Passionate about building **data pipelines, analytics systems, and scalable backend solutions**
 
 ---
 
-## 🛠️ Skills
-- Python  
-- SQL / MySQL  
-- Data Analysis (Pandas)  
-- Basic Machine Learning  
-- Data Visualization (Matplotlib)  
-- API Design & Backend Fundamentals  
+## 🔥 What I Do
+
+* Design and build **end-to-end data pipelines (ETL)**
+* Work with **structured data, SQL, and analytics**
+* Develop **REST APIs for data ingestion**
+* Explore **cloud-based data solutions (GCP, BigQuery)**
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
+
+### 🚚 Smart Delivery Data Pipeline: Scalable ETL & Route Optimization System
+
+* Built an end-to-end **data pipeline** with API ingestion, ETL processing, and data warehouse modeling
+* Implemented **Dijkstra’s Algorithm** for route optimization
+* Integrated **Google BigQuery** for analytics
+
+🔗 Repo: https://github.com/Sakshiparve695/Smart-Delivery-Analytics-GCP
 
 ---
 
-### 🔹 Gym Management System
-- Built using Python and SQL  
-- Implemented CRUD operations and database handling  
+### 🏋️ Fitness Data Pipeline: ETL-Driven Analytics & Performance Prediction System
+
+* Designed **multi-layer architecture (raw → processed → fact)**
+* Built ETL pipelines and analytics endpoints
+* Added ML-based prediction for performance insights
+
+🔗 Repo: https://github.com/Sakshiparve695/Gym-analytics-system
 
 ---
 
-### 🔹 Smart Delivery Route Optimization
-- Implemented Dijkstra’s Algorithm for shortest path  
-- Focused on optimization and efficient routing  
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL
+**Data Engineering:** ETL Pipelines, Data Modeling, BigQuery
+**Backend:** Flask, FastAPI
+**Tools:** Docker, GitHub Actions
+**Concepts:** Data Pipelines, Batch Processing, API Design
 
 ---
 
-### 🔹 Cyber Log Analyzer
-- Analyzed system logs to detect patterns and anomalies  
-- Worked with real-world data processing concepts  
+## 📊 What I'm Currently Focused On
+
+* Improving **data pipeline scalability**
+* Learning **real-time data processing (Kafka)**
+* Strengthening **system design for data engineering**
 
 ---
 
-## ⚙️ Tools & Technologies
-- Python  
-- MySQL  
-- Git & GitHub  
-- VS Code  
+## 🎯 Goal
+
+To become a **Data Engineer** and build systems that turn raw data into meaningful insights.
 
 ---
 
-## 📫 Let's Connect
-- LinkedIn: www.linkedin.com/in/sakshi-parve-921964219
-- GitHub: https://github.com/your-username
+## 📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/sakshi-parve-921964219
+* GitHub: https://github.com/Sakshiparve695
+
+---
+
+⭐ If you like my work, feel free to explore my repositories!
+
